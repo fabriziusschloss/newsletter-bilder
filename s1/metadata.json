@@ -96,20 +96,20 @@
     }
   },
   {
-    "filename": "E-Mail_Banner_ai_fomo_newsletter.png",
-    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/E-Mail_Banner_ai_fomo_newsletter.png",
-    "category": "general",
+    "filename": "fabrizius_smart_city_--chaos_40_--ar_32_--raw_--sref_36537404_7dbb3cab-d795-4188-b7a1-05fa3e9bbbe4_1.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_smart_city_--chaos_40_--ar_32_--raw_--sref_36537404_7dbb3cab-d795-4188-b7a1-05fa3e9bbbe4_1.png",
+    "category": "tech",
     "target_group": "all",
     "author": "",
-    "uploaded_at": "2025-12-06T13:41:10.027795",
+    "uploaded_at": "2025-12-06T13:43:42.660149",
     "optimization": {
-      "original_size_bytes": 525138,
-      "original_size_kb": 512.8,
-      "optimized_size_bytes": 168867,
-      "optimized_size_kb": 164.9,
-      "reduction_percent": 67.8,
-      "original_dimensions": "600x500",
-      "new_dimensions": "600x500",
+      "original_size_bytes": 2499666,
+      "original_size_kb": 2441.1,
+      "optimized_size_bytes": 180843,
+      "optimized_size_kb": 176.6,
+      "reduction_percent": 92.8,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
       "original_format": "PNG",
       "output_format": "PNG",
       "compression_method": "TinyPNG",
@@ -118,17 +118,17 @@
     "format": "PNG",
     "mode": "RGB",
     "width": 600,
-    "height": 500,
-    "size_bytes": 168867,
-    "hash": "f0beb0f882c18ba0600cc388399ed0ca",
+    "height": 400,
+    "size_bytes": 180843,
+    "hash": "31396a68a75876ca09d75a0932879d66",
     "ai_info": {
-      "is_ai_generated": false,
-      "ai_tool": null,
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
       "ai_model": null,
-      "ai_prompt": null,
+      "ai_prompt": "smart city --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 7dbb3cab-d795-4188-b7a1-05fa3e9bbbe4",
       "ai_parameters": {},
       "has_c2pa": false,
-      "iptc_digital_source": null
+      "iptc_digital_source": "trainedAlgorithmicMedia"
     }
   }
 ]
