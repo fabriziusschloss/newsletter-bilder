@@ -558,9 +558,9 @@
   {
     "filename": "header_20251203_102131.png",
     "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/header_20251203_102131.png",
-    "category": "tech",
-    "target_group": "all",
-    "author": "",
+    "category": "ai_news",
+    "target_group": "business",
+    "author": "Test Autor",
     "uploaded_at": "2025-12-06T17:10:36.374226",
     "optimization": {
       "optimized": false
