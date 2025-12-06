@@ -554,5 +554,31 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "header_20251203_102131.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/header_20251203_102131.png",
+    "category": "tech",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-06T17:10:36.374226",
+    "optimization": {
+      "optimized": false
+    },
+    "format": "PNG",
+    "mode": "P",
+    "width": 600,
+    "height": 342,
+    "size_bytes": 55108,
+    "hash": "60b16d195c5d63521749bd6b03e0b957",
+    "ai_info": {
+      "is_ai_generated": false,
+      "ai_tool": null,
+      "ai_model": null,
+      "ai_prompt": null,
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": null
+    }
   }
 ]
