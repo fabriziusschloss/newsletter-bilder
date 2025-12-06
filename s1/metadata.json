@@ -482,5 +482,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_search_marketing_--chaos_40_--ar_32_--raw_--sref_36_aaf81cf4-a398-4482-b70b-7bb178a2c9e0_1.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_search_marketing_--chaos_40_--ar_32_--raw_--sref_36_aaf81cf4-a398-4482-b70b-7bb178a2c9e0_1.png",
+    "category": "seo",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-06T16:39:51.524650",
+    "optimization": {
+      "original_size_bytes": 2529714,
+      "original_size_kb": 2470.4,
+      "optimized_size_bytes": 191126,
+      "optimized_size_kb": 186.6,
+      "reduction_percent": 92.4,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 191126,
+    "hash": "b9400f3df44ec587842df1dbe945788f",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "search marketing --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: aaf81cf4-a398-4482-b70b-7bb178a2c9e0",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
