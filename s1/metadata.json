@@ -591,5 +591,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_digital_wave_black_tiger_--chaos_40_--ar_32_--raw_-_3f178016-7e77-463b-8a0b-5f6cf59ad46c_3.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_digital_wave_black_tiger_--chaos_40_--ar_32_--raw_-_3f178016-7e77-463b-8a0b-5f6cf59ad46c_3.png",
+    "category": "design",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-06T17:25:37.077387",
+    "optimization": {
+      "original_size_bytes": 2582284,
+      "original_size_kb": 2521.8,
+      "optimized_size_bytes": 193189,
+      "optimized_size_kb": 188.7,
+      "reduction_percent": 92.5,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 193189,
+    "hash": "19fca02b46dd8e33e7ccd76ffe51d6dd",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "digital wave black tiger --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 3f178016-7e77-463b-8a0b-5f6cf59ad46c",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
