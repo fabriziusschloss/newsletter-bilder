@@ -775,5 +775,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_illustration_of_digital_transformation_--chaos_40_-_0e011b13-b84a-47b4-ac0f-bf46d4952d8f_1.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_illustration_of_digital_transformation_--chaos_40_-_0e011b13-b84a-47b4-ac0f-bf46d4952d8f_1.png",
+    "category": "tech",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-07T16:23:26.840958",
+    "optimization": {
+      "original_size_bytes": 2067760,
+      "original_size_kb": 2019.3,
+      "optimized_size_bytes": 141510,
+      "optimized_size_kb": 138.2,
+      "reduction_percent": 93.2,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 141510,
+    "hash": "9d8720fbcd2ae18d4302637ca9bedf41",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "illustration of digital transformation --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 0e011b13-b84a-47b4-ac0f-bf46d4952d8f",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
