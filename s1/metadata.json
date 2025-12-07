@@ -847,5 +847,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_illustration_of_A_robotic_hand_holding_a_big_magnif_0026387c-0f87-40ed-9341-2b6ebe89fe99_0.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_illustration_of_A_robotic_hand_holding_a_big_magnif_0026387c-0f87-40ed-9341-2b6ebe89fe99_0.png",
+    "category": "seo",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-07T16:29:06.261361",
+    "optimization": {
+      "original_size_bytes": 1694613,
+      "original_size_kb": 1654.9,
+      "optimized_size_bytes": 130889,
+      "optimized_size_kb": 127.8,
+      "reduction_percent": 92.3,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 130889,
+    "hash": "11dc062716427b635e42c3b536614aa6",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "illustration of A robotic hand holding a big magnifying glass with data flowing around it. --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 0026387c-0f87-40ed-9341-2b6ebe89fe99",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
