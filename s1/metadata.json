@@ -1170,5 +1170,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_gear_innovation_--chaos_40_--ar_32_--raw_--sref_365_1795fa1b-3666-4ac7-9143-dc8a77510b5f_1.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_gear_innovation_--chaos_40_--ar_32_--raw_--sref_365_1795fa1b-3666-4ac7-9143-dc8a77510b5f_1.png",
+    "category": "tech",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T11:51:29.101395",
+    "optimization": {
+      "original_size_bytes": 2308043,
+      "original_size_kb": 2253.9,
+      "optimized_size_bytes": 183286,
+      "optimized_size_kb": 179.0,
+      "reduction_percent": 92.1,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 183286,
+    "hash": "5f5e873f1e84e56758a7db67bbf0f3fb",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "gear innovation --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 1795fa1b-3666-4ac7-9143-dc8a77510b5f",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
