@@ -954,5 +954,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_Illustration_of_a_team_of_astronauts_developing_new_7f8972c5-3257-40a5-96eb-3ca1c2f8dc15_2.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_Illustration_of_a_team_of_astronauts_developing_new_7f8972c5-3257-40a5-96eb-3ca1c2f8dc15_2.png",
+    "category": "tech",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T09:29:39.069675",
+    "optimization": {
+      "original_size_bytes": 1702020,
+      "original_size_kb": 1662.1,
+      "optimized_size_bytes": 122821,
+      "optimized_size_kb": 119.9,
+      "reduction_percent": 92.8,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 122821,
+    "hash": "1581a1b483f508eda4ae0d33746f9bd9",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "Illustration of a team of astronauts developing new propulsion systems inside a space lab, surrounded by holographic displays and advanced technology, sleek and modern design --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 7f8972c5-3257-40a5-96eb-3ca1c2f8dc15",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
