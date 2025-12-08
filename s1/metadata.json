@@ -1458,5 +1458,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_innovation_--chaos_40_--ar_32_--raw_--sref_36537404_c2d1e8b6-b1fc-441e-8beb-b93020b9e5dd_3.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_innovation_--chaos_40_--ar_32_--raw_--sref_36537404_c2d1e8b6-b1fc-441e-8beb-b93020b9e5dd_3.png",
+    "category": "tech",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T12:58:11.871975",
+    "optimization": {
+      "original_size_bytes": 1828297,
+      "original_size_kb": 1785.4,
+      "optimized_size_bytes": 137037,
+      "optimized_size_kb": 133.8,
+      "reduction_percent": 92.5,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 137037,
+    "hash": "39dfd5cf42b6bb79d866703195f13023",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "innovation --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: c2d1e8b6-b1fc-441e-8beb-b93020b9e5dd",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
