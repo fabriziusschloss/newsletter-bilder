@@ -990,5 +990,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_microchips_and_digital_connections_representing_new_81d39978-5913-4dcb-a5a2-095c54e956a4_3.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_microchips_and_digital_connections_representing_new_81d39978-5913-4dcb-a5a2-095c54e956a4_3.png",
+    "category": "social",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T09:39:59.782962",
+    "optimization": {
+      "original_size_bytes": 2243224,
+      "original_size_kb": 2190.6,
+      "optimized_size_bytes": 178435,
+      "optimized_size_kb": 174.3,
+      "reduction_percent": 92.0,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 178435,
+    "hash": "d7094607aa74b0cda0aeb8c02a4f296d",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "microchips and digital connections, representing new ideas --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 81d39978-5913-4dcb-a5a2-095c54e956a4",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
