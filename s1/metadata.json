@@ -1242,5 +1242,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_digital_wave_robot_--chaos_40_--ar_32_--sref_365374_cf1b778e-efd1-4f90-81b3-68ebc71ca361_2.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_digital_wave_robot_--chaos_40_--ar_32_--sref_365374_cf1b778e-efd1-4f90-81b3-68ebc71ca361_2.png",
+    "category": "ai_news",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T12:19:15.042591",
+    "optimization": {
+      "original_size_bytes": 2185936,
+      "original_size_kb": 2134.7,
+      "optimized_size_bytes": 157404,
+      "optimized_size_kb": 153.7,
+      "reduction_percent": 92.8,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 157404,
+    "hash": "f0cb7b2ccce3c8212f72f3de0116589d",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "digital wave robot --chaos 40 --ar 3:2 --sref 3653740444 --stylize 50 --v 7 Job ID: cf1b778e-efd1-4f90-81b3-68ebc71ca361",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
