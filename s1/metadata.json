@@ -882,5 +882,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_illustration_of_A_Business_man_looking_into_binocul_7df19f6b-6c6b-4354-abb5-5c7d2dafa956_3.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_illustration_of_A_Business_man_looking_into_binocul_7df19f6b-6c6b-4354-abb5-5c7d2dafa956_3.png",
+    "category": "ai_news",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-08T09:21:37.830451",
+    "optimization": {
+      "original_size_bytes": 2013888,
+      "original_size_kb": 1966.7,
+      "optimized_size_bytes": 164546,
+      "optimized_size_kb": 160.7,
+      "reduction_percent": 91.8,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 164546,
+    "hash": "2f9cccc65bc2de66593bfa6ffcbb8ff0",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "illustration of A Business man looking into binoculars, the word \"SEO\" on her shirt. light blue and green. --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 7df19f6b-6c6b-4354-abb5-5c7d2dafa956",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
