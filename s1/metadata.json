@@ -2034,5 +2034,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_illustration_of_A_Business_woman_looking_into_binoc_61937b13-fabc-46a9-b731-0a0e83b8078c_1.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_illustration_of_A_Business_woman_looking_into_binoc_61937b13-fabc-46a9-b731-0a0e83b8078c_1.png",
+    "category": "seo",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-10T18:06:51.936433",
+    "optimization": {
+      "original_size_bytes": 1256632,
+      "original_size_kb": 1227.2,
+      "optimized_size_bytes": 88930,
+      "optimized_size_kb": 86.8,
+      "reduction_percent": 92.9,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 88930,
+    "hash": "1d4e2904177bf6f196551aefdc63b0fd",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "illustration of A Business woman looking into binoculars, --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: 61937b13-fabc-46a9-b731-0a0e83b8078c",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
