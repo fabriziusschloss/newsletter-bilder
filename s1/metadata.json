@@ -1962,5 +1962,41 @@
       "has_c2pa": false,
       "iptc_digital_source": "trainedAlgorithmicMedia"
     }
+  },
+  {
+    "filename": "fabrizius_marketing_--chaos_40_--ar_32_--raw_--sref_365374044_c589a078-0bee-40de-a46c-a83d5097ce04_3.png",
+    "url": "https://raw.githubusercontent.com/fabriziusschloss/newsletter-bilder/main/s1/fabrizius_marketing_--chaos_40_--ar_32_--raw_--sref_365374044_c589a078-0bee-40de-a46c-a83d5097ce04_3.png",
+    "category": "social",
+    "target_group": "all",
+    "author": "",
+    "uploaded_at": "2025-12-10T18:05:13.631737",
+    "optimization": {
+      "original_size_bytes": 3182157,
+      "original_size_kb": 3107.6,
+      "optimized_size_bytes": 221234,
+      "optimized_size_kb": 216.0,
+      "reduction_percent": 93.0,
+      "original_dimensions": "1344x896",
+      "new_dimensions": "600x400",
+      "original_format": "PNG",
+      "output_format": "PNG",
+      "compression_method": "TinyPNG",
+      "metadata_preserved": true
+    },
+    "format": "PNG",
+    "mode": "RGB",
+    "width": 600,
+    "height": 400,
+    "size_bytes": 221234,
+    "hash": "9f972398b2e638a34adbd58344b2a3e9",
+    "ai_info": {
+      "is_ai_generated": true,
+      "ai_tool": "Midjourney",
+      "ai_model": null,
+      "ai_prompt": "marketing --chaos 40 --ar 3:2 --raw --sref 3653740444 --stylize 50 --v 7 Job ID: c589a078-0bee-40de-a46c-a83d5097ce04",
+      "ai_parameters": {},
+      "has_c2pa": false,
+      "iptc_digital_source": "trainedAlgorithmicMedia"
+    }
   }
 ]
